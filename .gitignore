@@ -1,0 +1,7 @@
+/Cargo.lock
+/target
+# Archivos de VSCode
+.vscode/
+/idea/
+/*.swp
+.DS_Store
