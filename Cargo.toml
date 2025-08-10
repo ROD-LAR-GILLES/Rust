@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "chapters/ch01-hello-world",
+    "chapters/ch02-cargo-projects",
+    "chapters/ch03-vars-control-flow"
+]
+resolver = "2"
